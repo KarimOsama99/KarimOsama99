@@ -1,13 +1,15 @@
 <h1 align="left">👾 Karim Osama | Full-Stack Developer | Front-End Specialist</h1>
 
+![snake gif](https://github.com/KarimOsama99/KarimOsama99/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 👨‍💻 About Me
 
- .🛡️ I’m a **Full Stack Developer** with a passion for **Cybersecurity**.
- .🔐 Focused on building secure, scalable web apps.
- .🌱 Currently diving deeper into **Offensive Security**.
- .💼 Open to freelance and collaboration in **Web Development & Security**.
+- 🛡️ I’m a **Full Stack Developer** with a passion for **Cybersecurity**.
+- 🔐 Focused on building secure, scalable web apps.
+- 🌱 Currently diving deeper into **DevOps**, **Cloud**, and **Offensive Security**.
+- 💼 Open to freelance and collaboration in **Web Development & Security**.
 
 ### 📫 How to reach me
 
