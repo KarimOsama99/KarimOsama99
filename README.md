@@ -1,11 +1,6 @@
-<h1 align="left">Karim Osama | Full-Stack Developer | Front-End Specialist</h1>
+<h1 align="left">👾 Karim Osama | Full-Stack Developer | Front-End Specialist</h1>
 
-<p align="center">
-  <a href="https://github.com/KarimOsama99">
-    <img src="https://komarev.com/ghpvc/?username=KarimOsama99&label=Profile%20views&color=0e75b6&style=flat" alt="KarimOsama99" />
-  </a>
-</p>
-
+---
 
 ## 👨‍💻 About Me
 
