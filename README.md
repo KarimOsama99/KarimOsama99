@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Karim Osama</h1>
+<h1 align="left">Karim Osama | Full-Stack Developer</h1>
 
 <p align="center">
   <a href="https://github.com/KarimOsama99">
@@ -15,8 +15,8 @@
 - 🌱 Currently diving deeper into **DevOps**, **Cloud**, and **Offensive Security**.
 - 💼 Open to freelance and collaboration in **Web Development & Security**.
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)  
+  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
 
 ---
 
@@ -26,9 +26,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
@@ -48,8 +48,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimOsama99&layout=compact&theme=tokyonight" alt="langs" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
