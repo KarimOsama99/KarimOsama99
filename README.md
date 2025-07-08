@@ -14,9 +14,11 @@
 - 🔐 Focused on building secure, scalable web apps.
 - 🌱 Currently diving deeper into **DevOps**, **Cloud**, and **Offensive Security**.
 - 💼 Open to freelance and collaboration in **Web Development & Security**.
-- 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
 
 ---
 
@@ -36,6 +38,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+
+### 🔒 Cybersecurity Badges
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
+
 
 ---
 
