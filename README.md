@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me
 
- 🛡️ I’m a **Full Stack Developer** with a passion for **Cybersecurity**.
- 🔐 Focused on building secure, scalable web apps.
- 🌱 Currently diving deeper into **Offensive Security**.
- 💼 Open to freelance and collaboration in **Web Development & Security**.
+ -🛡️ I’m a **Full Stack Developer** with a passion for **Cybersecurity**.
+ -🔐 Focused on building secure, scalable web apps.
+ -🌱 Currently diving deeper into **Offensive Security**.
+ -💼 Open to freelance and collaboration in **Web Development & Security**.
 
 ### 📫 How to reach me
 
