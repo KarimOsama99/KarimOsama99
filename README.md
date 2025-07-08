@@ -1,7 +1,5 @@
 <h1 align="left">👾 Karim Osama | Full-Stack Developer | Front-End Specialist</h1>
 
-![snake gif](https://github.com/KarimOsama99/KarimOsama99/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 👨‍💻 About Me
