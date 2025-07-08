@@ -15,8 +15,8 @@
 - 🌱 Currently diving deeper into **DevOps**, **Cloud**, and **Offensive Security**.
 - 💼 Open to freelance and collaboration in **Web Development & Security**.
 - 📫 How to reach me:  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)  
-  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karim-osama-b21a04233/)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1karimosama@gmail.com)
 
 ---
 
