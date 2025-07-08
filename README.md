@@ -1,4 +1,4 @@
-<h1 align="left">Karim Osama | Full-Stack Developer</h1>
+<h1 align="left">Karim Osama | Full-Stack Developer | Front-End Specialist</h1>
 
 <p align="center">
   <a href="https://github.com/KarimOsama99">
@@ -6,7 +6,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
